@@ -1,21 +1,8 @@
 # Featured_Projects
-A curated portfolio of my software engineering projects, technical contributions, and competitive programming achievements.
-
-# 🚀 Featured Projects
-
-Welcome! I'm **Nura Alam Naim**, a final-year Computer Science & Engineering student at East West University.
 
 This repository showcases my most significant software engineering projects, technical contributions, and competitive programming experience.
 
 ---
-
-## 👨‍💻 About Me
-
-- 🎓 Final-year CSE Student at East West University
-- 💻 Interested in Full Stack Development and Backend Engineering
-- 🧠 Solved 1000+ algorithmic problems
-- 🏆 ICPC Preliminary Contest Participant
-- 🌱 Currently learning Laravel and improving Data Structures & Algorithms
 
 ---
 
